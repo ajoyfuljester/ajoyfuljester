@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ajoyfuljester
-- 👀 I’m interested in website designing
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+Hi, I’m @ajoyfuljester
 
 <!---
 ajoyfuljester/ajoyfuljester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
