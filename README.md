@@ -1,12 +1,16 @@
 Hi, there
 
+
 ### i am
+
 - ajoyfuljester
 - stubborn and i do not like change, i try to use it to my advantage by creating good habits
 - dumb and stupid
 - a human *logical or* an imagined persona, i do not know to be honest
 
+
 ### things i like
+
 - computer networks
 - api
 - programming
@@ -15,7 +19,9 @@ Hi, there
 - foss
 - and probably more that i forgot about
 
+
 ### things to do
+
 - learn tailoring
 - learn to bake bread
 - learn to bake cookies
@@ -34,10 +40,12 @@ Hi, there
                 - train an army of crows to poop on people who wronged me
 - and probably more that i forgot about
 
+
 ### a few notes
-- i might be delusional but [things to do](#things to do) are not of my delusions
+
+- i might be delusional but [things to do](#things-to-do) are not of my delusions
 - language is hard
-- i'm feeling bold today, but i might regret it later, so anyway i will give you a hint about what i really like - it's ontnidnnsk DO NOT ASK ME OR MENTION THIS LINE ANYWHERE NEAR ME please, if someone asks me then i will delete this line and feel very very bad, i want to be more honest and that's why i wrote this, i do not tell people about this, this is my secret that i am sharing PLEASE DO NOT ASK ME OR MENTION IT ANYWHERE NEAR ME
-- also Delirium is cool and funny
+<details>- i'm feeling bold today, but i might regret it later, so anyway i will give you a hint about what i really like - it's ontnidnnsk DO NOT ASK ME OR MENTION THIS LINE ANYWHERE NEAR ME please, if someone asks me then i will delete this line and feel very very bad, i want to be more honest and that's why i wrote this, i do not tell people about this, this is my secret that i am sharing PLEASE DO NOT ASK ME OR MENTION IT ANYWHERE NEAR ME
+- also Delirium is cool and funny</details>
 - my kind of philosophy is that i'm just a stranger that wants to make you smile
 - i wish you a good life whatever it means
