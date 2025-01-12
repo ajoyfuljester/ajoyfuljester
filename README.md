@@ -45,7 +45,9 @@ Hi, there
 
 - i might be delusional but [things to do](#things-to-do) are not of my delusions
 - language is hard
-<details>- i'm feeling bold today, but i might regret it later, so anyway i will give you a hint about what i really like - it's ontnidnnsk DO NOT ASK ME OR MENTION THIS LINE ANYWHERE NEAR ME please, if someone asks me then i will delete this line and feel very very bad, i want to be more honest and that's why i wrote this, i do not tell people about this, this is my secret that i am sharing PLEASE DO NOT ASK ME OR MENTION IT ANYWHERE NEAR ME
-- also Delirium is cool and funny</details>
 - my kind of philosophy is that i'm just a stranger that wants to make you smile
 - i wish you a good life whatever it means
+<!--
+- i'm feeling bold today, but i might regret it later, so anyway i will give you a hint about what i really like - it's ontnidnnsk DO NOT ASK ME OR MENTION THIS LINE ANYWHERE NEAR ME please, if someone asks me then i will delete this line and feel very very bad, i want to be more honest and that's why i wrote this, i do not tell people about this, this is my secret that i am sharing PLEASE DO NOT ASK ME OR MENTION IT ANYWHERE NEAR ME
+- also Delirium is cool and funny
+-->
