@@ -6,7 +6,7 @@ Hi, there
 - ajoyfuljester
 - stubborn and i do not like change, i try to use it to my advantage by creating good habits
 - dumb and stupid
-- a human *logical or* an imagined persona, i do not know to be honest
+- a human ∨ an imagined persona, i do not know to be honest
 
 
 ### things i like
