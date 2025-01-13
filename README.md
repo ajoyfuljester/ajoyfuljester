@@ -3,10 +3,10 @@ Hi, there
 
 ### i am
 
-- ajoyfuljester
+- a joyful jester
 - stubborn and i do not like change, i try to use it to my advantage by creating good habits
 - dumb and stupid
-- a human ∨ an imagined persona, i do not know to be honest
+- a human ∨ an imagined persona, i do not know to be honest, perhaps someone i want to be
 
 
 ### things i like
@@ -17,6 +17,8 @@ Hi, there
 - dc
 - creativity
 - foss
+- math
+- water
 - and probably more that i forgot about
 
 
@@ -38,6 +40,7 @@ Hi, there
         - tame an army of crows
             - train an army of crows
                 - train an army of crows to poop on people who wronged me
+- grow a useful plant, like an apple tree or peanuts
 - and probably more that i forgot about
 
 
@@ -45,7 +48,7 @@ Hi, there
 
 - i might be delusional but [things to do](#things-to-do) are not of my delusions
 - language is hard
-- my kind of philosophy is that i'm just a stranger that wants to make you smile
+- my kind of philosophy is that i'm just a stranger that wants to make you smile, though it does not mean i am good at it
 - i wish you a good life whatever it means
 <!--
 - i'm feeling bold today, but i might regret it later, so anyway i will give you a hint about what i really like - it's ontnidnnsk DO NOT ASK ME OR MENTION THIS LINE ANYWHERE NEAR ME please, if someone asks me then i will delete this line and feel very very bad, i want to be more honest and that's why i wrote this, i do not tell people about this, this is my secret that i am sharing PLEASE DO NOT ASK ME OR MENTION IT ANYWHERE NEAR ME
