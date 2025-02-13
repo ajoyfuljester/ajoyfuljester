@@ -44,7 +44,6 @@ Hi, there
 - read GPL 3 license
 - learn to play an instrument
 - learn other languages
-- install arch linux
 - create repository to keep small cool things that are not big enough or cool enough to have their own
 - and probably more that i forgot about
 
