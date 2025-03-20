@@ -1,4 +1,4 @@
-Hi, there
+nHi, there
 
 
 ### i am
@@ -19,8 +19,9 @@ Hi, there
 - foss
 - math
 - water
+- buses
+- writing emails
 - and probably more that i forgot about
-
 
 ### things to do
 
