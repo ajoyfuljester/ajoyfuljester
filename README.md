@@ -1,4 +1,4 @@
-nHi, there
+Hi, there
 
 
 ### i am
@@ -41,11 +41,16 @@ nHi, there
         - tame an army of crows
             - train an army of crows
                 - train an army of crows to poop on people who wronged me
-- grow a useful plant, like an apple tree or peanuts
+- grow a useful plant, like an apple tree or peanuts or tea
 - read GPL 3 license
 - learn to play an instrument
 - learn other languages
 - create repository to keep small cool things that are not big enough or cool enough to have their own
+- learn random skills
+    - juggling
+    - being flexible
+    - good guessing of the hexadecimal code of colors in real life, it will be fun because i am a little colorblin
+- make that slugterra game
 - and probably more that i forgot about
 
 
