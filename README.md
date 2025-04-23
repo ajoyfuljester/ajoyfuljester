@@ -4,7 +4,7 @@ Hi, there
 ### i am
 
 - a joyful jester
-- stubborn and i do not like change, i try to use it to my advantage by creating good habits
+- stubborn and i do not like change, i try to use it to my advantage by creating good habits. i am not very good at this apparently
 - dumb and stupid
 - a human ∨ an imagined persona, i do not know to be honest, perhaps someone i want to be
 
@@ -29,8 +29,8 @@ Hi, there
 - learn to bake bread
 - learn to bake cookies
 - learn to lucid dream
-- learn to telapathically talk to people while dreaming
-- learn to powernap like batman
+- learn to telepathically talk to people while dreaming
+- learn to power nap like batman
 - learn/exercise to run very well
 - have a house
     - have a house with a secret slide that leads to a secret room
