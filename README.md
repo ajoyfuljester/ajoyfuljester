@@ -49,8 +49,9 @@ Hi, there
 - learn random skills
     - juggling
     - being flexible
-    - good guessing of the hexadecimal code of colors in real life, it will be fun because i am a little colorblin
+    - good guessing of the hexadecimal code of colors in real life, it will be fun because i am a little colorblind
 - make that slugterra game
+- make a cli tool/game/whatever that is useful or fun
 - and probably more that i forgot about
 
 
